@@ -1,4 +1,8 @@
 
+中文版参考：
+https://mp.weixin.qq.com/s?__biz=MzIzMzgzOTUxNA==&mid=2247483678&idx=1&sn=5f044dabfaa726e292686287a1dd5ca4&chksm=e8fecfebdf8946fdabf71fd5c4c0e019144f105da993c12fa257c64f281ecfb3a7557f16b79e&mpshare=1&scene=1&srcid=0509xUuO1b6AoVGy51xDaZck#rd
+
+
 # Kaggle_CrowdFlower
 
 1st Place Solution for [Search Results Relevance Competition on Kaggle](https://www.kaggle.com/c/crowdflower-search-relevance)
